@@ -1,12 +1,12 @@
-Hello
-konnnichiha
-Genki desuka
+Hello = 3
+konnnichiha = 2
+Genki_desuka = 3
 UOOOOOOO
 import matplotlib.pyplot as plt
 Pokemon
-Pikachu
-Nyahoja
-
-
+Pikachu is cool
+Nyahoja is cute
 
 OK!
+Test
+New lines
